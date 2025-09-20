@@ -10,7 +10,6 @@ KR2 leverages the Kinisi Robotics "gym_kr2-PickYCB-v1_generated" dataset to prov
 
 ## Dataset
 Source: https://huggingface.co/datasets/kinisi/gym_kr2-PickYCB-v1_generated
-Contains manipulation and pick tasks using YCB objects with KR2 robots
 
 ## Acknowledgments
 - Kinisi Robotics for the PickYCB dataset
